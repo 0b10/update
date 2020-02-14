@@ -1,0 +1,1 @@
+[[ -e $GIT_LREPOS ]] || (echo "GIT_LREPOS env var must be set" && return 1);
